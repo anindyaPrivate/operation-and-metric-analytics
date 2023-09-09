@@ -3,12 +3,19 @@
 You will be working with a table named job_data with the following columns:
 
 job_id: Unique identifier of jobs
+
 actor_id: Unique identifier of actor
+
 event: The type of event (decision/skip/transfer).
+
 language: The Language of the content
+
 time_spent: Time spent to review the job in seconds.
+
 org: The Organization of the actor
+
 ds: The date in the format yyyy/mm/dd (stored as text).
+
 Tasks:
 
 Jobs Reviewed Over Time:
